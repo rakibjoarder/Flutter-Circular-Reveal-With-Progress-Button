@@ -2,6 +2,14 @@
 
 Circular Reveak with Progress button using flutter.
 
+<p align="center">
+Screenshot
+</p>
+<p align="center">
+  <img src="images/reveal.gif" width="250"/>
+</p>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
